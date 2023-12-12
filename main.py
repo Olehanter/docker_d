@@ -3,3 +3,4 @@ b = 20
 
 
 print(f"Result is: {a*b}")
+print("Привет друг")
